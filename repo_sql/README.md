@@ -39,7 +39,7 @@ O arquivo [`database/schema_ddl.sql`](database/schema_ddl.sql) contém apenas a 
    psql --host=localhost --username=postgres -q --file=database/schema_ddl.sql
    ```
 2. Popule as tabelas com os dados da base de eleições 2024 (arquivo fornecido separadamente pela disciplina).
-3. Execute as consultas listadas em [`consultas/exercicio_9.md`](consultas/exercicio_9.md).
+3. Execute as consultas listadas em [`consultas/exercicios_.md`](consultas/exercicios_.md).
 
 ## Consultas
 
