@@ -15,7 +15,7 @@ banco-de-dados-eleicoes-2024/
 ├── database/
 │   └── schema_ddl.sql       → definição das tabelas (DDL)
 └── consultas/
-    └── exercicio_9.md       → consultas SQL com resultados e explicações
+    └── exercicios_.md       → consultas SQL com resultados e explicações
 ```
 
 ## Modelo de dados
@@ -52,7 +52,7 @@ O exercício cobre 11 consultas (itens a–k), incluindo:
 - Subconsulta para identificar valores máximos
 - Cálculo de idade média usando funções de data (`EXTRACT`)
 
-Veja o detalhamento completo com as queries e os resultados em [`consultas/exercicio_9.md`](consultas/exercicio_9.md).
+Veja o detalhamento completo com as queries e os resultados em [`consultas/exercicios_.md`](consultas/exercicios_.md).
 
 ## Tecnologias
 
