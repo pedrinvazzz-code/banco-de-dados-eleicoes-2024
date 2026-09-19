@@ -1,4 +1,4 @@
-# Exercício 9 — Consultas com JOIN, agregação e filtros
+# Exercícios SQL — Consultas com JOIN, agregação e filtros
 
 ## a) Candidato com maior e menor valor de bens em Minas Gerais
 
